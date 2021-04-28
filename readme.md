@@ -28,6 +28,6 @@ Docker kurulumu yapıldıktan sonra 2.node için
 
 Seçeneği kullanılmış ve  172.17.0.2:8092 adresindeki mevcut asimceylan cluster ına eklenmiştir.
 
-Ardından `Rebalance` işlemi gerçekleştirilmiştir.
+Ardından `Rebalance` işlemi gerçekleştirilirken hata alınmıştır.
 
 
